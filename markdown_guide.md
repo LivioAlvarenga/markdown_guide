@@ -135,3 +135,16 @@ Aqui esta meu [Linkedin](https://www.linkedin.com/in/livio-alvarenga-planejament
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--- | :---: | ---:
 Valor | Valor | Valor
+
+## Cor em textos (**<font color=#FF0000>html</font>**):
+
+**O markdown <font color=#FF0000>NÃO</font> suporta cor, usamos html:**
+
+Link para codigo de cores:
+<https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/>
+
+**<font color="#000099">AZUL</font>**
+
+**<font color="blue">AZUL</font>**
+
+> Obs.: GITHUB **<font color=#FF0000>NÃO</font>** aceita codigo html!
