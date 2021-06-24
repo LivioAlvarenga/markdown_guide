@@ -27,8 +27,9 @@ Traço horizontal três menos.
 
 Podemos criar títulos usando \## antes do texto
 
+&nbsp;
 ---
-
+Podemos dar uma quebra de linha com \&nbsp;
 ## Lista numerada:
 
 1. Teste;
